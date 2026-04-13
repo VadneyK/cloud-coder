@@ -1,0 +1,12 @@
+{
+    "name": "cloud-coder",
+    "version": "0.1.0",
+    "description": "Autonomous overnight coding agent. Queue tasks in YAML, run them via Claude CLI while you sleep, and use self-healing audit-fix loops to hit any quality target.",
+    "author": {
+          "name": "Kentaro Vadney",
+          "url": "https://github.com/VadneyK"
+    },
+    "repository": "https://github.com/VadneyK/cloud-coder",
+    "license": "MIT",
+    "keywords": ["automation", "overnight", "autonomous", "coding", "audit", "claude-code", "ci"]
+}
